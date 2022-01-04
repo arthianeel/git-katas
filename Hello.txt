@@ -1,5 +1,10 @@
 HELLO!!
 I AM ARTHii
 HOLA
-LESSGOO mekdce
+<<<<<<< HEAD
+LESSGOO
 UPPERCASE
+=======
+LESSGOOooo
+UPPERCAAASE hehehe
+>>>>>>> mergesort
