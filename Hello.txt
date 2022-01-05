@@ -2,9 +2,17 @@ HELLO!!
 I AM ARTHii
 HOLA
 <<<<<<< HEAD
+<<<<<<< HEAD
 LESSGOO mekdce
+=======
+LESSGOO
+>>>>>>> c35607faec01b2a30c470edf98d8b1f4fc44e87c
 UPPERCASE
 =======
 LESSGOOooo
 UPPERCAAASE hehehe
+<<<<<<< HEAD
 >>>>>>> 9c9dfb2 (mergecsort conflict)
+=======
+>>>>>>> mergesort
+>>>>>>> c35607faec01b2a30c470edf98d8b1f4fc44e87c
