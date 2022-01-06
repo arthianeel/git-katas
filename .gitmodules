@@ -1,0 +1,3 @@
+[submodule "zemoso-training"]
+	path = zemoso-training
+	url = https://github.com/wizmoa/zemoso-training.git
